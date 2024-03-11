@@ -15,7 +15,7 @@ pip install lucy-spc
 ### Reading .spc Files
 
 ```python
-import lucy_spc.config as cf
+import lucy_spc as cf
 
 # Initialize Config object with the path to the .spc file
 spc = cf.Config("example.spc")
