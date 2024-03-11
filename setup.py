@@ -8,7 +8,7 @@ setup(
     description='A Python library for reading and writing .spc files',
     long_description=open('README.md').read() + "\n\n" + open('CHANGELOG.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/lucy-spc',
+    url='https://github.com/aswin-kevin/lucy-spc',
     packages=find_packages(),
     install_requires=[],
     license="MIT",
