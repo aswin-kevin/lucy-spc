@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='lucy-spc',
-    version='0.0.1',
+    version='0.0.2',
     author='Aswin Venkat',
     author_email='aswinvenkat60@gmail.com',
     description='A Python library for reading and writing .spc files',
