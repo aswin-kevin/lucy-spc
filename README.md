@@ -1,6 +1,6 @@
 # Lucy SPC
 
-Lucy SPC is a Python library inspired by the character Lucy Pevensie from the Narnia movie series. It provides functionalities to read and write .spc (Special Configuration) files, allowing easy conversion to and from JSON format.
+Lucy SPC is a Python library ( name inspired by the character Lucy Pevensie from the Narnia movie series ) provides functionalities to read and write .spc (Special Configuration) files, allowing easy conversion to and from JSON format.
 
 ## Installation
 
